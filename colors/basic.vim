@@ -12,7 +12,7 @@ if exists("syntax_on")
   syntax reset
 endif
 
-let g:colors_name = "2718281828"
+let g:colors_name = "basic"
 
 let s:fg_color = 238
 let s:bg_color = 230
